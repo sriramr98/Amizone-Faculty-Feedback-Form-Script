@@ -16,3 +16,5 @@ let feedback = "";
 * Repeat for every faculty.
 
 If the script is not working as expected, please open an issue from the issues tab and I will fix it ASAP.
+
+Here is a tutorial video: https://youtu.be/PRN3sGsRIh4
